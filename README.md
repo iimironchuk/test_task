@@ -3,7 +3,9 @@
 A new Flutter project.
 
 Мирончук Ірина Миколаївна
+
 email: iramyronchuk26@gmail.com
+
 години: 8
 
 [Download APK](https://github.com/iimironchuk/test_task/blob/main/app-release.apk)
