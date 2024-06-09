@@ -6,7 +6,6 @@ A new Flutter project.
 email: iramyronchuk26@gmail.com
 години: 8
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
