@@ -6,7 +6,7 @@ A new Flutter project.
 email: iramyronchuk26@gmail.com
 години: 8
 
-
+[Download APK](https://github.com/iimironchuk/test_task/blob/main/app-release.apk)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
